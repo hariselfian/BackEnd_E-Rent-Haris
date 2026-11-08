@@ -1,0 +1,6 @@
+# Mengabaikan folder vendor dan file konfigurasi lokal
+/vendor/
+/user_guide_src/
+.env
+.idea
+*.log
